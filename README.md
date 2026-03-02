@@ -8,5 +8,5 @@ Python, Java, C++ (ESP32, Arduino IDE)
 **IoT**
 ESP32, Raspberry Pi, Home Assistant, MQTT, Zigbee
 
-## 🌱 I’m currently learning
+## I’m currently learning
 C for embedded systems.
