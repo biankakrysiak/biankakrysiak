@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**biankakrysiak/biankakrysiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd year Computer Science student intereseted in software development and Internet of Things systems.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+Python, Java, C++ (ESP32, Arduino IDE)
+
+**IoT**
+
+ESP32, Raspberry Pi, Home Assistant, MQTT, Zigbee
+
+## 🔭 Currently working on
+
+Building Python applications and software–hardware integration projects.
+
+## 🌱 I’m currently learning
+
+C for embedded systems.
