@@ -2,7 +2,7 @@ Hi there, I'm a 4th year Computer Science student intereseted in software develo
 
 I currently work as a Junior Network Administrator, working with wireless networks, networking equipment, and radio communication systems.
 
-Tech:
+### Tech:
 
 **Languages**
 
@@ -17,7 +17,6 @@ ESP32, Raspberry Pi, Home Assistant, MQTT, Zigbee
 **Networking & Wireless Systems**
 
 MikroTik, Ubiquiti, Wireless network infrastructure, Network administration and configuration Antennas and wireless communication
-
 
 **Interests**
 
