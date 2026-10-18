@@ -1,25 +1,24 @@
-Hi there, I'm a 4th-year Computer Science student interested in software development, embedded systems, electronics, and the Internet of Things (IoT).
+Hi there, I'm a 4th year Computer Science student intereseted in software development and Internet of Things systems.
 
-I currently work as a **Network Administrator**, working with wireless networks, networking equipment, and radio communication systems.
+I currently work as a Junior Network Administrator, working with wireless networks, networking equipment, and radio communication systems.
 
-### Tech Stack
+Tech:
 
 **Languages**
-- Python, Java, C++
-- Currently learning C for embedded systems
 
-**IoT & Embedded Systems**
-- ESP32, Raspberry Pi, Arduino IDE
-- Home Assistant, MQTT, Zigbee
+Python, Java, C++ (ESP32, Arduino IDE)
+
+Currently learning C for embedded systems
+
+**IoT**
+
+ESP32, Raspberry Pi, Home Assistant, MQTT, Zigbee
 
 **Networking & Wireless Systems**
-- MikroTik, Ubiquiti
-- Wireless network infrastructure
-- Network administration and configuration
-- Antennas and wireless communication
+
+MikroTik, Ubiquiti, Wireless network infrastructure, Network administration and configuration Antennas and wireless communication
+
 
 **Interests**
-- Electronics and hardware
-- Embedded systems
-- IoT and smart home automation
-- Wireless networking and radio technologies
+
+Electronics and hardware, Embedded systems, Internet of Things, Smart home automation, Wireless networking and radio technologies
